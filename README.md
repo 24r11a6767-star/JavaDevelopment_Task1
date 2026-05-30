@@ -33,11 +33,9 @@ The project successfully delivers a fun and interactive Number Guessing Game wit
 
 ## Demo
 
-**GitHub Repository:** Add your GitHub repository link here
+**GitHub Repository:** 
 
-**Demo Video:** Add your YouTube/LinkedIn video link here
-
-**Live Demo (Optional):** Add deployment link here
+**Demo Video:** 
 
 ## Author
 
